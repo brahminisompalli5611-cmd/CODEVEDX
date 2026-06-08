@@ -1,6 +1,7 @@
 # Todo App
 
-Task 1 for CodeVedX Frontend Development Internship.
+A responsive Todo Application built using HTML, CSS and JavaScript.
+Developed as part of the CodeVedX Frontend Development Internship.
 
 ## Features
 - Add Task
